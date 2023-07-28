@@ -184,24 +184,24 @@ button.addEventListener("click",function(){
             frames[1].classList.add("appear");
             frames[1].style.opacity = "1";
             msg.classList.add("move-up");
-        },1500);
+        },2500);
 
         setTimeout(() => {
             msg.style.transform = "translateY(-100%)";
             flash.style.display = "none";
-        },5000);
+        },6000);
 
         setTimeout(() => {
             msgWindow.classList.add("fade-in");
             msgWindow.style.opacity = '0';
-        },88000);
+        },89000);
 
         setTimeout(() => {
             frames[1].style.display = "none";
             frames[0].style.display = "flex";
             frames[0].classList.add("appear");
             frames[0].style.opacity = "1";
-        },91000);
+        },92000);
 
     }
 
