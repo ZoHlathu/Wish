@@ -152,7 +152,7 @@ body {
   border-color: #fff;
   border-style: dotted;
   border-radius: 50%;
-  background-image: url(../resources/img/Asset.png);
+  background-image: url("../resources/img/Asset.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -308,7 +308,7 @@ body {
 }
 
 .hallway {
-  background-image: radial-gradient(transparent, #000), url(../resources/img/Hallway.svg);
+  background-image: radial-gradient(transparent, #000), url("../resources/img/Hallway.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -318,7 +318,7 @@ body {
 .empty-room,
 .giftroom,
 .content {
-  background-image: radial-gradient(transparent, rgba(0, 0, 0, 0.65)), url(../resources/img/bedroom.svg);
+  background-image: radial-gradient(transparent, rgba(0, 0, 0, 0.65)), url("../resources/img/bedroom.svg");
   background-position: 70%;
   background-repeat: no-repeat;
   background-size: cover;
