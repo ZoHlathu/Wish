@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnshumanMahato/Happy-Birthday-Card.git"
+    "url": "git+https://github.com/ZoHlathu/Wish.git"
   },
   "keywords": [
     "happy-birthday",
     "birthday-card"
   ],
-  "author": "Anshuman Mahato",
+  "author": "RSR",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnshumanMahato/Happy-Birthday-Card/issues"
+    "url": "https://github.com/ZoHlathu/Wish/issues"
   },
-  "homepage": "https://github.com/AnshumanMahato/Happy-Birthday-Card#readme",
+  "homepage": "https://github.com/ZoHlathu/Wish#readme",
   "devDependencies": {
     "autoprefixer": "^10.2.6",
     "concat": "^1.0.3",
